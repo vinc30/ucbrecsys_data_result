@@ -1,0 +1,1 @@
+jupyter notebook --certfile=mycert.pem --ip=140.112.21.14 --no-browser
